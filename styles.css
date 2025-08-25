@@ -84,9 +84,8 @@ body {
   margin-top: 1rem;
 }
 
-/* ============================= */
 /* Responsive Design (Media Queries) */
-/* ============================= */
+
 
 /* Tablet view */
 @media (max-width: 900px) {
@@ -112,3 +111,4 @@ body {
     align-items: center;
   }
 }
+
